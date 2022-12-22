@@ -1,0 +1,22 @@
+* {
+    scrollbar-color: var(--scroll-color) #FFFFFF;
+    scrollbar-width: "none";
+}
+
+*::-webkit-scrollbar {
+    width: 12px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: var(--scroll-color);
+    border: 0px solid #000000;
+    border-radius: 100px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #FFFFFF;
+}
+
+:root {
+    --scroll-color: #FF922C;
+}

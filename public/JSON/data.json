@@ -1,0 +1,51 @@
+[
+    {
+        "color": "#FF922C",
+        "description": "It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery.",
+        "image": "https://i.ibb.co/8gchQrZ/Dish-1.png",
+        "price": 32,
+        "title": "Green Goddess Chicken Salad"
+    },
+    {
+        "color": "#54BF29",
+        "description": "It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery. It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery.",
+        "image": "https://i.ibb.co/s9tdhsz/Dish-2.png",
+        "price": 35,
+        "title": "Asian Cucumber Salad"
+    },
+    {
+        "color": "#FF4E00",
+        "description": "It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery. It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery.",
+        "image": "https://i.ibb.co/k0xzNv7/Dish-3.png",
+        "price": 32,
+        "title": "Green Goddess Chicken Salad"
+    },
+    {
+        "color": "#8EA604",
+        "description": "Asian Cucumber Salad Recipe made with crunchy cucumber, onion, rice wine vinegar, and a few secret ingredients!",
+        "image": "https://i.ibb.co/hyzh131/Dish-4.png",
+        "price": 35,
+        "title": "Asian Cucumber Salad"
+    },
+    {
+        "color": "#F5BB00",
+        "description": "It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery.",
+        "image": "https://i.ibb.co/8Pzc93T/Dish-5.png",
+        "price": 32,
+        "title": "Green Goddess Chicken Salad"
+    },
+    {
+        "color": "#EC9F05",
+        "description": "Asian Cucumber Salad Recipe made with crunchy cucumber, onion, rice wine vinegar, and a few secret ingredients!",
+        "image": "https://i.ibb.co/k23BMMw/Dish-6.png",
+        "price": 35,
+        "title": "Asian Cucumber Salad"
+    },
+    {
+        "color": "#BF3100",
+        "description": "It is a non vegetarian salad which consists of the green goddess dressing mixed with chicken, peppers, olives and celery.",
+        "image": "https://i.ibb.co/rHxqJ9k/Dish-7.png",
+        "price": 32,
+        "title": "Green Goddess Chicken Salad"
+    }
+]
